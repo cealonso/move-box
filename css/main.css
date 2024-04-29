@@ -1,0 +1,59 @@
+body {
+    font-family: 'Concert One', cursive;
+    background-color: #F3F3F6
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px
+}
+
+.button-primary {
+    font-family: 'Work Sans', sans-serif;
+    background: #FF3366;
+    color: #FFDFFD;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 18px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.button-primary:hover {
+    background-color: #E81E61;
+    color: #ffffff;
+}
+
+hr{
+    width:50%;
+    border-top: 1px solid #6E6E6E;
+    margin-top: 20px;
+}
+
+/* https://codepen.io/yassgfx/pen/owrqOB */
+
+.footer p{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }
+
+#main-content {
+    text-align:center;
+    padding-top: 5%;
+}
+
+.column {
+    display: inline-block;
+    margin: 0px auto;
+ }
